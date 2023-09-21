@@ -1,10 +1,10 @@
 # [unrated] 9로 나눈 나머지 - 181914 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181914?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181914?language=python3) 
 
 ### 성능 요약
 
-메모리: 59.1 MB, 시간: 1.29 ms
+메모리: 10.3 MB, 시간: 0.02 ms
 
 ### 구분
 
