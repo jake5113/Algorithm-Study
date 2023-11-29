@@ -1,10 +1,10 @@
 # [level unrated] 글자 이어 붙여 문자열 만들기 - 181915 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181915?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181915?language=swift) 
 
 ### 성능 요약
 
-메모리: 59.8 MB, 시간: 11.19 ms
+메모리: 16.5 MB, 시간: 0.04 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 11월 3일 14:37:27
+2023년 11월 3일 14:41:5
 
 ### 문제 설명
 
